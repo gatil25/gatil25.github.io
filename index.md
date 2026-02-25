@@ -1,3 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
 <div style="text-align:center; margin-top:40px;">
 
 # Gatil Yadav  
